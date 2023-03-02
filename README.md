@@ -5,5 +5,4 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Step-By-Step Installation](https://github.com/CarlosMHEX/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
