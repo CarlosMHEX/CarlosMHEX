@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos Daniel Marin, an <a href="https://www.linkedin.com/in/carlos-marin-05210317a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Carlos Daniel Marin, an <a href="https://www.linkedin.com/in/carlos-marin-05210317a/">IT Professional</a>😊</h1>
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
