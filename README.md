@@ -5,6 +5,6 @@
 I will be updating this with demonstrations or self-made tutorials to help remember what I learn... Feel free to look around 😄
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Step-By-Step Installation](https://github.com/CarlosMHEX/osticket-prereqs)
+  - [osTicket: Step-By-Step Installation](https://github.com/CarlosMHEX/osticket-prereqs) ✔
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]() W.I.P
