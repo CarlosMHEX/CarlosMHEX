@@ -8,3 +8,5 @@ I will be updating this with demonstrations or self-made tutorials to help remem
   - [osTicket: Step-By-Step Installation](https://github.com/CarlosMHEX/osticket-prereqs) ✔
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CarlosMHEX/NSGs-Inspecting-Network-Protocols) ✔
+- <b>Microsoft Active Directory</b>
+  - [Setting up Active Directory using a windows server VM](https://github.com/CarlosMHEX/Placeholder) W.I.P
