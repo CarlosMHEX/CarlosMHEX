@@ -1,6 +1,6 @@
-<h1>Hi, I'm Carlos Daniel Marin, an <a href="https://www.linkedin.com/in/carlos-marin-05210317a/">IT Professional</a>😊</h1>
+<h1>Hi, I'm Carlos Daniel Marin, a certified <a href="https://www.linkedin.com/in/carlos-marin-05210317a/">IT Professional</a>😊</h1>
 
-<h2>👨‍💻 Information Technology Projects (Going for one project every 2 weeks! 📚)</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 
 I will be updating this with demonstrations or self-made tutorials to help remember what I learn... Feel free to look around 😄
 
